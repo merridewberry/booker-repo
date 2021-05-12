@@ -1,0 +1,11 @@
+{
+  "firstname" : "John",
+  "lastname" : "Johnson",
+  "totalprice" : 1000,
+  "depositpaid" : true,
+  "bookingdates" : {
+    "checkin" : "beep",
+    "checkout" : "boop"
+  },
+  "additionalneeds" : "Breakfast"
+}
